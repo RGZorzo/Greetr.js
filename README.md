@@ -1,2 +1,3 @@
 # greetr.js
-Simple Js library for learning purposes
+Example of javascript library<br>
+Just say hello!
