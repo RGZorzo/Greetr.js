@@ -1,3 +1,3 @@
 # greetr.js
-Example of javascript library<br>
+Example of Javascript library<br>
 Just say hello!
